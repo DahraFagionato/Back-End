@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0px;
+}
+
+body{
+    width: 100%;
+    background-color: rgb(222, 136, 201);
+    padding: 15px;
+    margin: 15px;
+}
+
+#titulo{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
